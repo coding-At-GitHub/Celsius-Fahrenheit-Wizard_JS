@@ -1,5 +1,6 @@
 let celsius = document.getElementById("celsius");
 let fahrenheit = document.getElementById("fahrenheit");
+let isEqual = false;
 
 function celToFar(){
     let output = ( parseFloat(celsius.value) * 9/5 ) + 32;
