@@ -38,4 +38,6 @@ input{
 input:focus{
     border-color: #3164ff;
 }
-h2 {}
+h2 {
+    color: #000
+}
